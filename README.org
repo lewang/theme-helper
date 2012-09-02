@@ -1,5 +1,5 @@
 * Theme Helper helps you iterate faster while making Emacs 24 themes.
 
-** See your changes with `C-c C-c`
+- See your changes with `C-c C-c`
 
-** See header for details
+- See header for details
