@@ -133,7 +133,7 @@ This us useful for theme experimentation."
   (normal-mode)
   (theme-helper-mode 1))
 
-(provide 'theme-helper-mode)
+(provide 'theme-helper)
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
